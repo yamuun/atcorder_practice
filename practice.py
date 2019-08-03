@@ -1,3 +1,20 @@
+https://atcoder.jp/contests/abc088/tasks/abc088_a
+
+N = int(input()) #目的
+A = int(input()) #1円の枚数
+
+#500円で払える箇所まで割る
+amari = N % 500
+#print(int(amari))
+
+
+if amari <= A:
+  print("Yes")
+else:
+  print("No")
+
+
+
 #https://atcoder.jp/contests/abc086/tasks/abc086_a
 
 list1=[int(i) for i in input().split()]
