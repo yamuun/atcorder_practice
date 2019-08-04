@@ -1,3 +1,12 @@
+
+8/4 ivvent atcorder です
+https://www.timeanddate.com/worldclock/fixedtime.html?iso=20190804T2100&p1=248
+を実施
+C問題まで解けました。
+言語　python 3.x.x
+
+
+
 8/3 
 プログラミングコンテストチャレンジブック【2版】
 の　～42/373　round1 読了
@@ -23,5 +32,4 @@ k[i]= ? で配列を入力してアウトプットを求める形。
 ここで学べてよかったと思う
 
 
-8/4 ivvent atcorder です
-https://www.timeanddate.com/worldclock/fixedtime.html?iso=20190804T2100&p1=248
+テストを行う
