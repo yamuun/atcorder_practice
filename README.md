@@ -7,7 +7,17 @@ atcoredr の　開催済みコンテストの練習結果をアップしてい�
 
 私のパイソン歴:2019/7/29~
 
+
+
 ## History 
+8/18
+https://atcoder.jp/contests/abc138
+AtCoder Beginner Contest 138
+A:1 
+B:1 
+C:1
+
+
 8/4
 contest 
 A:1 

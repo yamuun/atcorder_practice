@@ -1,3 +1,44 @@
+https://atcoder.jp/contests/abc138/submissions/6987534
+a = int(input()) #文字列
+s = input() #文字列
+ 
+if a >= 3200 :
+  print(s)
+else:
+  print("red")
+
+
+https://atcoder.jp/contests/abc138/submissions/6992864
+import math 
+ 
+N = int(input()) #数値
+A =[int(i) for i in input().split()]
+ 
+ans = 0
+for i in range(int(N)):
+  ans = float(ans) + float(1 / A[i])
+  #print(ans)
+ 
+print(float(1/ans))
+
+https://atcoder.jp/contests/abc138/submissions/7002479
+
+N = int(input()) #数値
+V =[int(i) for i in input().split()] #数値
+ 
+ 
+V = sorted(V)
+ans = 0
+for i in range(N-1):
+  if i == 0:
+    ans = float((V[i]+V[i+1])/2)
+  else:
+    ans = float((ans+V[i+1])/2)
+print(ans)
+
+
+
+
 # https://atcoder.jp/contests/abc136/tasks/abc136_c
 
 N = int(input()) #目的
