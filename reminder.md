@@ -1,5 +1,37 @@
+####  2019/0911 
+アルゴリズム挑戦です 
 
-8/4 ivvent atcorder です
+---
+score 300
+
+https://atcoder.jp/contests/abc100/tasks/abc100_c
+
+考えOK
+
+実装→：計算量 𝑂(𝑁 𝑙𝑜𝑔 𝑙𝑜𝑔 (𝑚𝑎𝑥 𝑎𝑖
+)) で求める方法もあります。𝑥 が 2 で割れる回数を二分法で
+求めることによって、この計算量を達成することができます。
+
+---
+https://atcoder.jp/contests/abc100/tasks/abc100_d
+score 400
+
+考え　NG　→　OK
+
+---
+B問題 score 200
+
+考え OK
+
+---
+
+
+
+
+
+
+
+#### 8/4 ivvent atcorder です
 https://www.timeanddate.com/worldclock/fixedtime.html?iso=20190804T2100&p1=248
 を実施
 C問題まで解けました。
@@ -7,7 +39,8 @@ C問題まで解けました。
 
 
 
-8/3 
+
+#### 8/3 
 プログラミングコンテストチャレンジブック【2版】
 の　～42/373　round1 読了
 
